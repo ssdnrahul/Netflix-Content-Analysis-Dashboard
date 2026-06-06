@@ -29,7 +29,7 @@ Netflix needs to understand:
 
 ## 📊 Dashboard Preview
 
-![netflix-dashboard-preview](netflix-dashboard-preview.png)
+![netflix_dashboard_preview](netflix_dashboard_preview.png)
 
 ## 📈 Key KPIs
 
@@ -78,7 +78,7 @@ Netflix needs to understand:
 
 - [📊 Power BI Dashboard](Netflix_Content_Analysis.pbix)
 - [📑 Dataset](Netflix_Content_Dataset.xlsx)
-- [🖼 Dashboard Preview](netflix-dashboard-preview.png)
+- [🖼 Dashboard Preview](netflix_dashboard_preview.png)
 
 ## 👨‍💻 Author
 
