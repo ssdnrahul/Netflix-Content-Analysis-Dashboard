@@ -76,9 +76,9 @@ Netflix needs to understand:
 
 ## 📂 Files Included
 
-* Netflix_Content_Analysis.pbix
-* Netflix_Content_Dataset.xlsx
-* Dashboard.png
+- [📊 Power BI Dashboard](Netflix_Content_Analysis.pbix)
+- [📑 Dataset](Netflix_Content_Dataset.xlsx)
+- [🖼 Dashboard Preview](Dashboard.png)
 
 ## 👨‍💻 Author
 
